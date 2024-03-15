@@ -1,12 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
 
 :root {
-    --cor-de-fundo: #1E1E1E;
-    --verde: #6FFF57;
-    --branco: #FFFFFF;
-    --botao-ativo: #3A375E;
-    --botao-inativo: rgba(58, 55, 94, 0.5);
-    --texto-fundo: rgba(58, 55, 94, 0.3);
+    --cor-de-fundo: #ffffff;
+    --verde: #f00000;
+    --branco: #000000;
+    --botao-ativo: #f3f3f3;
+    --botao-inativo: rgba(94, 55, 55, 0.5);
+    --texto-fundo: const tempoObjetivo3 = new Date("2024-o2-30T00:00:00");
+    rgba(0, 0, 0, 0.3);
 }
 
 body {
